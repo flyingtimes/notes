@@ -13,4 +13,9 @@ git push
 ## 更新项目内容
 
  如果有新的文件加入，需要重新 git add * 添加一下
- 普通更新就 git commit & git push 好了
+ 普通更新就 
+
+```
+git commit
+git push
+```
